@@ -1,0 +1,2 @@
+# HibernateJPA_HerenciaMappedSuperclass
+Herencia con MappedSuperclass
